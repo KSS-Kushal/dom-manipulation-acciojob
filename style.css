@@ -1,0 +1,27 @@
+body{
+    background-color: #000;
+}
+
+.heading{
+    color: #fff;
+}
+
+.counterContainer{
+    width: fit-content;
+    color: #fff;
+    border-bottom: 1px solid #fff;
+    padding: 5px 0;
+    margin-bottom: 7px;
+}
+
+#error{
+    display: none;
+    color: #ff0000;
+    margin-bottom: 7px;
+}
+
+.button{
+    padding: 7px 14px;
+    background-color: #fff;
+    color: #000;
+}
